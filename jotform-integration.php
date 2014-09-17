@@ -37,7 +37,7 @@ function jotform_init_func( $atts ){
 	}
 
 	//print script
-	return "<script type='text/javascript' src='http://form.jotform.us/jsform/".$id."?".$queryString."'></script>";
+	return "<script type='text/javascript' src='https://secure.jotform.us/jsform/".$id."?".$queryString."'></script>";
 }
 
 
