@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: BFTrick
+Contributors: BFTrick and andrewrogersnow
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=56EDEHK9PMWWC
 Tags: jotform, form, jot, widget, shortcode
 Requires at least: 3.0
