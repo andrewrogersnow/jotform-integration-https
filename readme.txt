@@ -12,6 +12,7 @@ JotForm Integration is a Wordpress Plugin that helps the user include forms from
 
 
 == Description ==
+I modified the originall plugin from BFTrick. This updated version only utilizedt a https secure jotform.
 
 JotForm Integration is a Wordpress Plugin that helps the user include forms from [JotForm](http://www.jotform.com/). Now you, the web dude, don't have to make simple form edits. You can give the client the JotForm credentials and let them go wild.
 
@@ -19,7 +20,7 @@ Before you can add a JotForm to your site you will obviously need to create a fo
 
 As of version 1.1.0 there is now a widget available for you to use. Simply add the JotForm widget to the sidebar, enter the form ID and bingo, bango, bongo, you're done. Watch the magic happen.
 
-If you have any suggestions for improvements please go to the [GitHub page](https://github.com/BFTrick/jotform-integration) and create some issues. You can even edit the code yourself and submit a pull request. :)
+If you have any suggestions for improvements please go to the [GitHub page](https://github.com/andrewrogersnow/jotform-integration-https) and create some issues. You can even edit the code yourself and submit a pull request. :)
 
 
 == Installation ==
