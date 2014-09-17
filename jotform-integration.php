@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: JotForm Integration HTTPS
-Plugin URI: https://github.com/BFTrick/jotform-integration
-Description: Integrate JotForm forms with your WordPress-powered site.
+Plugin URI: https://github.com/andrewrogersnow/jotform-integration-https
+Description: Integrate JotForm forms with your WordPress-powered site using HTTPS.
 Author: Patrick Rauland fork. Andrew Rogers
-Author URI: http://www.patrickrauland.com
+Author URI: http://www.nowmarketinggroup.com.com
 Version: 1.1.2
 License: GPL2
 */
